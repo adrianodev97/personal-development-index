@@ -322,6 +322,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://imersao.fullcycle.com.br/aulas/">[Workshop] </a>
+        <a href="#">Full Cycle</a> (10%)
+      </summary>
+      <ul>
+        <li>
+          Started: 21/06/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
@@ -340,7 +356,6 @@ This is a simple document that aims to list and index evidences of personal deve
   </li> -->
 </ul>
 </br>
-
 
 <hr/>
 
