@@ -139,22 +139,6 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Project] </a>
-        <a href="#">Freelancers system to Partys and events</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished: 
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="#">[Project] </a>
         <a href="#">Party Hall Management System</a> (0%)
       </summary>
       <ul>
@@ -322,6 +306,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/adrianodev97/party-and-events-services-app">[Project] </a>
+        <a href="https://github.com/adrianodev97/party-and-events-services-app">Freelancers system to Partys and events</a> (5%)
+      </summary>
+      <ul>
+        <li>
+          Started: 23/06/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
@@ -340,7 +340,6 @@ This is a simple document that aims to list and index evidences of personal deve
   </li> -->
 </ul>
 </br>
-
 
 <hr/>
 
