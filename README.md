@@ -310,7 +310,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="https://github.com/adrianodev97/party-and-events-services-app">[Project] </a>
-        <a href="https://github.com/adrianodev97/party-and-events-services-app">Freelancers system to Partys and events</a> (5%)
+        <a href="https://github.com/adrianodev97/party-and-events-services-app">Freelancers system to Partys and events</a> (8%)
       </summary>
       <ul>
         <li>
