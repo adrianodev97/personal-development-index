@@ -402,6 +402,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://nextjs.org/learn/seo/introduction-to-seo">[Course] </a>
+        <a href="#">Search Engine Optimization</a> (16.6%)
+      </summary>
+      <ul>
+        <li>
+          Started: 19/10/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
