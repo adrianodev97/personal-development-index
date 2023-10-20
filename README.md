@@ -402,6 +402,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Book] </a>
+        <a href="#">Clean Architecture</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 17/10/2023
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+      </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
