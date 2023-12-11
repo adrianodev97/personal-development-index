@@ -406,7 +406,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <details> 
       <summary>
         <a href="#">[Book] </a>
-        <a href="#">Clean Agile: Back to Basics</a> (0%)
+        <a href="#">Clean Agile: Back to Basics</a> (41%)
       </summary>
       <ul>
         <li>
