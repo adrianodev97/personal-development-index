@@ -405,6 +405,38 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://nextjs.org/learn/seo/introduction-to-seo">[Course] </a>
+        <a href="#">Search Engine Optimization</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 19/10/2023
+        </li>
+        <li>
+          Finished: 29/11/2023
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Course] </a>
+        <a href="#">Clean Architecture(Introduction) - Full Cycle</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 02/12/2023
+        </li>
+        <li>
+          Finished: 03/12/2023
+        </li>
+       </ul>
+     </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="#">[Course] </a>
         <a href="#">Hexagonal Architecture(Introduction) - Full Cycle</a> (100%)
       </summary>
@@ -416,7 +448,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished: 11/12/2023
         </li>
       </ul>
-      </details>
+    </details>
   </li>
   <!-- <li>
     <details> 
