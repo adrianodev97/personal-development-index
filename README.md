@@ -416,7 +416,23 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished: 29/11/2023
         </li>
       </ul>
-      </details>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="#">[Course] </a>
+        <a href="#">Clean Architecture(Introduction) - Full Cycle</a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 02/12/2023
+        </li>
+        <li>
+          Finished: 03/12/2023
+        </li>
+       </ul>
+     </details>
   </li>
   <!-- <li>
     <details> 
